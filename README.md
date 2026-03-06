@@ -135,13 +135,6 @@ By completing this project, you will understand:
 ## 🔗 Dataset Source
 
 The Titanic dataset is a classic dataset in machine learning and data science, widely used for educational purposes.
-
-## 📄 License
-
-This project is provided as-is for educational purposes.
-
----
-
 **Author**: Data Analysis Capstone Project  
 **Date**: 2026  
 **Status**: Complete
